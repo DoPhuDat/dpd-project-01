@@ -508,8 +508,7 @@ a {
   max-width: 680px;
   padding: 0 80px;
 }
-
-.subscription .info .sub-title {
+git init .subscription .info .sub-title {
   color: #fff;
   font-size: 3.5rem;
   font-weight: 600;
